@@ -1,0 +1,16 @@
+/target
+# Rust build files
+/target/
+
+# Rust dependencies
+/Cargo.lock
+
+# Backup files
+*~
+
+# IDE configuration files (example for Visual Studio Code)
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
